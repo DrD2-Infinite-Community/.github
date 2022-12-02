@@ -9,7 +9,7 @@ A **DrD2 Infinite Community** é um projeto open source feito por juniors com o 
 
 ## O que vamos desenvolver? 
 
-O nosso foco está na criação de uma plataforma de vídeo. Como o Youtube? Presumo que seja isso que venho na sua mente agora. A essência é mais ou menos essa, mas temos o objetivo de nós distinguir desenvolvendo um produto novo e não uma cópia de qualquer plataforma que seja. Apesar de tudo isso, temos plena consciência dos desafios. Aliás, é bom informar que não queremos fazer um Vimeo ou Youtube da vida, estamos construindo algo simples dando um passo de cada vez. 
+O nosso foco está na criação de uma plataforma de compartilhamento de vídeo, onde um usuário poderá compartilhar vídeos, criar listas de reprodução, gostar ou não gostar de um vídeo, comentar em um vídeo etc. Como o Youtube? Presumo que seja isso que venho na sua mente agora. A essência é mais ou menos essa, mas temos o objetivo de nós distinguir desenvolvendo um produto novo e não uma cópia de qualquer plataforma que seja. Apesar de tudo isso, temos plena consciência dos desafios. Aliás, é bom informar que não queremos fazer um Vimeo ou Youtube da vida, estamos construindo algo simples dando um passo de cada vez. 
 
 Portanto, este projeto proporcionará um processo rico em conteúdo e aprendizado para todos os envolvidos e ainda vai servir para dá aquele **UP** no currículo ou impressionar aquele recrutador.
 
