@@ -9,7 +9,7 @@ A **DrD2 Infinite Community** é um projeto open source feito por juniors com o 
 
 ## Qual é a nossa missão?
 
-Nossa missão é construir um ambiente onde quem sabe pode ensinar e quem não sabe pode aprender. Uma plataforma de streaming educacional extremamente simples de usar, com conteúdos práticos, de qualidade e além de tudo isso gratuito. Um lugar para democratizar o conhecimento em um nível nunca visto antes.
+Nossa missão é construir um ambiente que conecte pessoas que querem ensinar com aqueles que querem aprender. Uma plataforma de streaming educacional extremamente simples de usar, com conteúdos práticos, de qualidade e além de tudo isso gratuito. Um lugar para democratizar o conhecimento em um nível nunca visto antes.
 
 Aqui você terá vídeos aulas, livros, artigos, blogs, podcasts e muitas outras coisas para agradar qualquer tipo de pessoa e gosto. Então, o que está esperado? Venha se juntar a esse projeto incrível.
 
