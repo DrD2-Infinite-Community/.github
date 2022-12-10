@@ -5,13 +5,14 @@
 </p>
 
 ## Quem somos?
-A **DrD2 Infinite Community** é um projeto open source feito por juniors com o objetivo de adquirir experiências reais com projetos próximos de algo profissional. Além disso, aqui você aprende, ensina, faz novos amigos e aprimora suas hard e soft skills.
+A **DrD2 Infinite Community** é um projeto open source feito por juniors com o objetivo de adquirir experiências em equipe.
 
-## O que vamos desenvolver? 
+## Qual é a nossa missão?
 
-O nosso foco está na criação de uma plataforma de compartilhamento de vídeo, onde um usuário poderá compartilhar vídeos, criar listas de reprodução, gostar ou não gostar de um vídeo, comentar em um vídeo etc. Como o Youtube? Presumo que seja isso que venho na sua mente agora. A essência é mais ou menos essa, mas temos o objetivo de nós distinguir desenvolvendo um produto novo e não uma cópia de qualquer plataforma que seja. Apesar de tudo isso, temos plena consciência dos desafios. Aliás, é bom informar que não queremos fazer um Vimeo ou Youtube da vida, estamos construindo algo simples dando um passo de cada vez. 
+Nossa missão é construir um ambiente onde quem sabe pode ensinar e quem não sabe pode aprender. Uma plataforma de streaming educacional extremamente simples de usar, com conteúdos práticos, de qualidade e além de tudo isso gratuito. Um lugar para democratizar o conhecimento em um nível nunca visto antes.
 
-Portanto, este projeto proporcionará um processo rico em conteúdo e aprendizado para todos os envolvidos e ainda vai servir para dá aquele **UP** no currículo ou impressionar aquele recrutador.
+Aqui você terá vídeos aulas, livros, artigos, blogs, podcasts e muitas outras coisas para agradar qualquer tipo de pessoa e gosto. Então, o que está esperado? Venha se juntar a esse projeto incrível.
+
 
 <img width="170px" height="170px" align="right"  src="https://github.com/Johnson49/biblioteca/blob/main/dino-girl.png">
 
