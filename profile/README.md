@@ -1,15 +1,17 @@
 # Olá, seja bem-vindo !
 
 <p align="center">
- <img width="100%" height="300px" src="https://user-images.githubusercontent.com/108435026/205152246-2a5fc646-6a26-49cd-b046-1c0b9866f285.png">
+ <img width="100%" height="210px" src="https://user-images.githubusercontent.com/108435026/205152246-2a5fc646-6a26-49cd-b046-1c0b9866f285.png">
 </p>
 
 ## Quem somos?
 A **DrD2 Infinite Community** é um projeto open source feito por juniors com o objetivo de adquirir experiências em equipe.
 
-## Qual é a nossa missão?
+<br>
 
-Nossa missão é construir um ambiente que conecte pessoas que querem ensinar com aqueles que querem aprender. Uma plataforma de streaming educacional extremamente simples de usar, com conteúdos práticos, de qualidade e além de tudo isso gratuito. Um lugar para democratizar o conhecimento em um nível nunca visto antes.
+## <img align="left" height="170px" width="190" src="https://o.remove.bg/downloads/75050ad5-a60f-4f83-8e30-dac4735e8038/exer-removebg-preview.png" />  Qual é a nossa missão? 
+
+Nossa missão é construir um ambiente que conecte pessoas que querem ensinar com aquelas que querem aprender. Uma plataforma de streaming educacional extremamente simples de usar, com conteúdos práticos, de qualidade e além de tudo isso gratuito. Um lugar para democratizar o conhecimento em um nível nunca visto antes.
 
 Aqui você terá vídeos aulas, livros, artigos, blogs, podcasts e muitas outras coisas para agradar qualquer tipo de pessoa e gosto. Então, o que está esperado? Venha se juntar a esse projeto incrível.
 
@@ -32,7 +34,7 @@ Toda a comunidade da **DrD2 Infinite Community** está empenhada em promover um 
 
 <br>
 
-&nbsp; &nbsp; &nbsp; &nbsp; 1. Entre na comunidade da SouJunior no discord  <a target="_blank" href="https://discord.gg/zWWdRVFNhC"><img width="125px" align="right" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+&nbsp; &nbsp; &nbsp; &nbsp; 1. Entre na comunidade da SouJunior no discord  <a target="_blank" style="text-decoration: none" href="https://discord.gg/zWWdRVFNhC"><img width="125px" align="right" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 <br>
 
