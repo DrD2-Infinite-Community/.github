@@ -14,7 +14,7 @@ A **DrD2 Infinite Community** é um projeto open source feito por juniors com o 
 <br>
 <br>
 
-## <img align="left" height="190px" width="210" src="https://github.com/Johnson49/biblioteca/blob/main/img/exer-re.png" />  Qual é a nossa missão? 
+## <img align="left" height="190px" width="200" src="https://github.com/Johnson49/biblioteca/blob/main/img/exer-re.png" />  Qual é a nossa missão? 
 
 Nossa missão é construir um ambiente que conecte pessoas que querem ensinar com aquelas que querem aprender. Uma plataforma de streaming educacional extremamente simples de usar, com conteúdos práticos, de qualidade e além de tudo isso gratuito. Um lugar para democratizar o conhecimento em um nível nunca visto antes.
 
