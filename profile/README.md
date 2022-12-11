@@ -8,7 +8,7 @@
 ## Quem somos? 
  
  
-A **DrD2 Infinite Community** é um projeto open source feito por juniors com o objetivo de adquirir experiências em equipe.
+A **DrD2 Infinite Community** é um projeto open source feito por juniors com o objetivo de adquirir experiência em equipe e no desenvolvimento de soluções reais e práticas.
 
 <br>
 <br>
