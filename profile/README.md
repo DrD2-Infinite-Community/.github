@@ -18,7 +18,7 @@ A **DrD2 Infinite Community** é um projeto open source feito por juniors com o 
 
 Nossa missão é construir um ambiente que conecte pessoas que querem ensinar com aquelas que querem aprender. Uma plataforma de streaming educacional extremamente simples de usar, com conteúdos práticos, de qualidade e além de tudo isso gratuito. Um lugar para democratizar o conhecimento em um nível nunca visto antes.
 
-Aqui você terá vídeos aulas, livros, artigos, blogs, podcasts e muitas outras coisas para agradar qualquer tipo de pessoa e gosto. Então, o que está esperado? Venha se juntar a esse projeto incrível.
+Aqui você terá vídeos aulas, livros, artigos, blogs, podcasts e muitas outras coisas para agradar qualquer tipo de pessoa e gosto.
 
 
 <img width="210px" height="220px" align="right"  src="https://github.com/Johnson49/biblioteca/blob/main/img/dino-girl.png">
