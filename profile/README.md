@@ -44,8 +44,8 @@ Toda a comunidade da **DrD2 Infinite Community** está empenhada em promover um 
 
 <br>
 
-&nbsp; &nbsp; &nbsp; &nbsp; 2. Navegue até a canal de `🛠-vagas-projetos`, lá você consegue saber quais projetos estão rolando e se existem vagas. Isso mesmo, se não tiver interesse de participar deste projeto, existe outros para você escolher.
+&nbsp; &nbsp; &nbsp; &nbsp; 2. Navegue até a canal de `🛠-comece-aqui`, lá você consegue seguir a lista de instruções e saber quais projetos estão rolando e se existem vagas. Isso mesmo, se não tiver interesse de participar deste projeto, existe outros para você escolher. Além disso, caso queira, você pode montar o seu próprio projeto seguindo o nosso template ou criando um do zero.
 
 &nbsp; &nbsp; &nbsp; &nbsp; 3.	Converse com os responsáveis e combine sua entrada nos times.
 
-&nbsp; &nbsp; &nbsp; &nbsp; 4.	Vale ressaltar que para poder enviar mensagens nos canais específicos do projeto, bem como poder ser mencionado pelos demais integrantes, passe no canal `🛠-tag` e escolha o cargo de membro do projeto correspondente.
+&nbsp; &nbsp; &nbsp; &nbsp; 4.	Vale ressaltar que para poder enviar mensagens nos canais específicos do projeto, bem como poder ser mencionado pelos demais integrantes, você precisa estar dentro da equipe, após decidir se dedicar a algum projeto.
